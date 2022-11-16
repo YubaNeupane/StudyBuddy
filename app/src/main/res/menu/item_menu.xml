@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_todo"
+        android:title="To Do"
+        android:icon="@drawable/ic_todo"
+        />
+
+    <item android:id="@+id/nav_coffee"
+        android:title="Coffee"
+        android:icon="@drawable/ic_coffee"/>
+
+    <item android:id="@+id/nav_upcoming_events"
+        android:title="Events"
+        android:icon="@drawable/ic_events"/>
+
+
+
+</menu>
